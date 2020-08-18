@@ -1,0 +1,5 @@
+#Data too large to upload on github. Data split into training, validation, and test sets. Within each split, a directory for cats and dogs existed.
+#6000 samples for cats in training set. Also, 6000 for dogs.
+#2000 samples for cats in validation set. Also, 2000 for dogs.
+#2000 samples for cats in test set. Also, 2000 for dogs.
+#No duplicates. ANN was trained to predict unseen samples. Check video for more explanation.
