@@ -1,0 +1,1 @@
+Training binary classification neural network to predict if input image is a cat or dog.
