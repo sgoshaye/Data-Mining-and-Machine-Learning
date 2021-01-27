@@ -1,2 +1,0 @@
-Assignment involves building a neural network to
-classify & predicting which customer is going to leave this bank service. 
